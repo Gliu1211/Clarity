@@ -1,5 +1,5 @@
 # Clarity
-A modern web application designed to bring transparency and actionable insights to the world of dietary supplements. NutriQ empowers consumers to make informed decisions by analyzing supplement safety, efficacy, and nutritional content.
+A modern web application designed to bring transparency and actionable insights to the world of dietary supplements. Clarity empowers consumers to make informed decisions by analyzing supplement safety, efficacy, and nutritional content.
 
 # Features
 Search Functionality: Search for supplements by name or barcode to access detailed information.
